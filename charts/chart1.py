@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 
-num_defectos = 5
+num_defectos = 0
 num_pruebas = 10
 efectividad = (num_defectos / num_pruebas) * 100 
 
