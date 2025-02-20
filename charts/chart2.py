@@ -29,3 +29,4 @@ fig.update_layout(
 )
 
 fig.show()
+fig.write_html("chart2.html")
